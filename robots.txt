@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://6953509b87b1cc0628218110--polite-dragon-9c87a7.netlify.app/sitemap.xml
+Sitemap: https://polite-dragon-9c87a7.netlify.app/sitemap.xml
